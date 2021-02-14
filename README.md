@@ -737,7 +737,6 @@ For files:
 | rwx  | rwx | rwx |  
 | ---  | --- | --- |
 |Read, write, and execute permission for file owner | Read, write and execute permission for group owner | Read, write, and execute permission for all other users
-Here, we will use *octal notation* to make changes to file permissions. 
 
 Here, we will use *octal notation* to make changes to file permissions.
 ```
