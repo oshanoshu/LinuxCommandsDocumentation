@@ -176,7 +176,7 @@ Change your current directory to given path.
 ## Takes you to the downloads folder if there is one 
 cd Downloads
 
-## Toggle between your last two working directorues 
+## Toggle between your last two working directories 
 cd -
 
 ## Takes you to the parent directory
