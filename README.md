@@ -6,8 +6,10 @@
 
 <span>
  </br>
-I'll try to update these if needed, and if you'd like to contribute, you are free to do so.
+I'll try to update these if needed, and if you'd like to contribute, you are free to do so.    
+You can use this to learn commands, practice for interviews, or whatever you want to do. 
 </span>
+<br>
 Feel free to contact me! <br />
 <a href="https://www.instagram.com/oshanoshu"><img height="30" src="assets/img/instagram.png"></a> <a href="https://www.twitter.com/oshanoshu"><img height="30" src="assets/img/twitter.png"></a> <a href="https://www.linkedin.com/in/oshanoshu"><img height="30" src="assets/img/linkedin.png"></a>
 
